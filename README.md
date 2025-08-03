@@ -1,4 +1,6 @@
-![alt text](https://s3.katsuki.digital/logo.png)
+<p align="center">
+  <img src="https://s3.katsuki.digital/logo.png" />
+</p>
 
 ## Описание проекта.
 
