@@ -1,4 +1,4 @@
-![alt text](https://github.com/Katsuki0/telegram-timetable-bot/blob/master/image.jpg?raw=true)
+![alt text](https://s3.katsuki.digital/logo.png)
 
 ## Описание проекта.
 
