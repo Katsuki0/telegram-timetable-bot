@@ -4,7 +4,7 @@ const fs = require('fs'); // чтение файлов
 const sqlite = require('sqlite-sync'); // База данных.
 const schedule = require('node-schedule'); // Для расписаний
 
-const bot = new TelegramBot('8185244553:AAE9T5gnUq3A418rRh4WVPR2pTYgnSVFvbQ', { polling: true }); // Подключение к боту, polling - short polling - частота опроса Telegram.
+const bot = new TelegramBot('TOKEN', { polling: true }); // Подключение к боту, polling - short polling - частота опроса Telegram.
 
 
 sqlite.connect('data.db'); // Открытие sqlite3 бд, если нет, то создает.
