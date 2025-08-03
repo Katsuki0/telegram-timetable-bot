@@ -1,4 +1,4 @@
-<img src="https://repolaunch.vercel.app/assets/img/yt.webp" alt="" align="center" width="auto" height="auto">
+![alt text](https://github.com/Katsuki0/telegram-timetable-bot/blob/master/image.jpg?raw=true)
 
 ## Описание проекта.
 
